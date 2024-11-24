@@ -1,12 +1,14 @@
 ---
+layout: page
 # the default layout is 'page'
+
 icon: fas fa-info-circle
 order: 1
 ---
 
 Hi there! I’m Davide Testa, an __Artificial Intelligence__ and Natural Language Processing (__NLP__) enthusiast. I’m a __computational linguist__ who has blended his passion for linguistics with the love for the digital world and computer science. For this reason, one adjective that perfectly describes my academic journey is 'transversal'.
 
-Currently, I'm completing my __PhD in AI__, exploring the fascinating world of __multimodality__ and the intersection of vision and language in large multimodal models. My research focuses on the challenges of __visual reasoning__ and __grounding__, aiming to improve AI systems' ability to understand and interact with the world in meaningful ways.
+Currently, I'm part of the Italian __National PhD Program in AI__ at Università di Roma La Sapienza in collaboration with Fondazione Bruno Kessler (FBK) in Trento under the supervision of Bernardo Magnini (FBK) and Alessandro Lenci (Unipi). I'm exploring the fascinating world of __multimodality__ and the intersection of vision and language in large multimodal models. My research focuses on the challenges of __visual reasoning__ and __grounding__, aiming to improve AI systems' ability to understand and interact with the world in meaningful ways.
 
 Beyond my research, I firmly believe in the power of __curiosity__, __creativity__, and __inclusivity__. I embrace a diverse and open-minded approach to both my work and life, and I am a proud ally and activist of the LGBTQ+ community. I thrive in environments where everyone feels empowered to explore, learn, and contribute—whether through technical work or sharing ideas and passions.
 

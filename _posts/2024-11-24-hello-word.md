@@ -6,6 +6,7 @@ tags: [Hello World]
 ---
 
 
-Welcome to my space on the web! 🌟
-Here I will share my journey through NLP, AI and related fields by documenting my research and achievements, and fostering meaningful conversations around curiosity and diversity. 
+Welcome to my space on the web! 🌟  
+Here I will share my journey through NLP, AI and related fields by documenting my research and achievements, and fostering meaningful conversations around curiosity and diversity.  
+If you want to know more about me, go in the _About me_  section 😬  
 Whether you're passionate about AI or simply curious, I hope to inspire new ideas and connections: feel free to explore and reach out! 🌈
