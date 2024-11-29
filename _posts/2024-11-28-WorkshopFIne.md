@@ -1,6 +1,6 @@
 ---
 title: "First time as invited speaker at Workshop FINE 🎤✨ (AixiA 2024)"
-date: 2024-11-24 13:00:00 +0800
+date: 2024-11-28 14:00:00 +0800
 categories: [Post]
 tags: [Presentations]
 ---
