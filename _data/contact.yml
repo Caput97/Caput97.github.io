@@ -3,8 +3,9 @@
 - type: github
   icon: "fab fa-github"
 
-#- type: twitter
-# icon: "fa-brands fa-x-twitter"
+- type: twitter
+  icon: "fa-brands fa-x-twitter"
+  url: https://x.com/itsdavide97
 - type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
   url:  https://www.linkedin.com/in/davide-testa-70293b175/                  # Fill with your Linkedin homepage
